@@ -30,6 +30,14 @@
             "logoURI": "https://i.ibb.co/C8YT6Vg/0xa2ee61faa6a220010ed14084bf57efee3f9ba120.png"
         },
         {
+            "name": "Zeno Lend Token",
+            "address": "0xFE79e70Ca2c9C660B2ef4ab012B5CaBd47776AB8",
+            "symbol": "ZL",
+            "decimals": 18,
+            "chainId": 1946,
+            "logoURI": "https://i.ibb.co/D9mhD1S/zeno.png"
+        },
+        {
             "name": "USDC Test",
             "address": "0xaBb51dC0ED442bB932bdf392D5AF96e4Bdb82805",
             "symbol": "USDC",
