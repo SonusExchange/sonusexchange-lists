@@ -30,6 +30,14 @@
             "logoURI": "https://i.ibb.co/C8YT6Vg/0xa2ee61faa6a220010ed14084bf57efee3f9ba120.png"
         },
         {
+            "name": "Astar Minato Testnet Token",
+            "address": "0x26e6f7c7047252DdE3dcBF26AA492e6a264Db655",
+            "symbol": "ASTR",
+            "decimals": 18,
+            "chainId": 1946,
+            "logoURI": "https://i.ibb.co/FgNbjv6/astar-astr-logo.png"
+        },
+        {
             "name": "Zeno Lend Token",
             "address": "0xFE79e70Ca2c9C660B2ef4ab012B5CaBd47776AB8",
             "symbol": "ZL",
