@@ -30,6 +30,14 @@
             "logoURI": "https://i.ibb.co/C8YT6Vg/0xa2ee61faa6a220010ed14084bf57efee3f9ba120.png"
         },
         {
+            "name": "Sone Stablecoin",
+            "address": "0x526c528B914402a27bF15A5E26571d3f9f7DcC5b",
+            "symbol": "SONE",
+            "decimals": 18,
+            "chainId": 1946,
+            "logoURI": "https://i.ibb.co/7W3spvN/sone.png"
+        },
+        {
             "name": "Astar Minato Testnet Token",
             "address": "0x26e6f7c7047252DdE3dcBF26AA492e6a264Db655",
             "symbol": "ASTR",
