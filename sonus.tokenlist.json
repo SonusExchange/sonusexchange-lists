@@ -60,6 +60,14 @@
             "decimals": 18,
             "chainId": 1946,
             "logoURI": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Circle_USDC_Logo.svg"
+        },
+        {
+            "name": "Neemo Staked ASTR",
+            "address": "0xe14b432b82bA85d36c0B1F5DcD43605a1FD329CC",
+            "symbol": "nsASTR",
+            "decimals": 18,
+            "chainId": 1946,
+            "logoURI": "https://i.ibb.co/dJwbyr3/71f30b56-c4db-41d1-86de-63bebf70b86f.jpg"
         }
     ]
   }
