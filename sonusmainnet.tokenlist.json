@@ -30,6 +30,22 @@
             "logoURI": "https://i.ibb.co/C8YT6Vg/0xa2ee61faa6a220010ed14084bf57efee3f9ba120.png"
         },
         {
+            "name": "Neemo Staked Astar",
+            "address": "0xc67476893C166c537afd9bc6bc87b3f228b44337",
+            "symbol": "nsASTR",
+            "decimals": 18,
+            "chainId": 1868,
+            "logoURI": "https://i.ibb.co/7pQdgZb/ns-ASTR-2x.png"
+        },
+        {
+            "name": "Neemo ReStaked Ether",
+            "address": "0x2fc9a87b1ef46dCDdF4801C36d752E0d5F243E4b",
+            "symbol": "nrETH",
+            "decimals": 18,
+            "chainId": 1868,
+            "logoURI": "https://i.ibb.co/0MSpb3N/nrETH-2x.png"
+        },
+        {
             "name": "Astar Token",
             "address": "0x2CAE934a1e84F693fbb78CA5ED3B0A6893259441",
             "symbol": "ASTR",
