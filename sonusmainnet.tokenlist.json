@@ -38,6 +38,14 @@
             "logoURI": "https://i.ibb.co/7pQdgZb/ns-ASTR-2x.png"
         },
         {
+            "name": "Warpped stASTR",
+            "address": "0x3b0DC2daC9498A024003609031D973B1171dE09E",
+            "symbol": "wstASTR",
+            "decimals": 18,
+            "chainId": 1868,
+            "logoURI": "https://i.ibb.co/h1XWMQC1/6d63a1b7-aa33-4c2b-a30c-f7411f880b19.jpg"
+        },
+        {
             "name": "Wrapped liquid staked Ether 2.0",
             "address": "0xaA9BD8c957D803466FA92504BDd728cC140f8941",
             "symbol": "wstETH",
