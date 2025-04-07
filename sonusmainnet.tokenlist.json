@@ -30,6 +30,14 @@
             "logoURI": "https://i.ibb.co/C8YT6Vg/0xa2ee61faa6a220010ed14084bf57efee3f9ba120.png"
         },
         {
+            "name": "Stargate USD₮0 (Bridged)",
+            "address": "0x102d758f688a4C1C5a80b116bD945d4455460282",
+            "symbol": "USD₮0",
+            "decimals": 6,
+            "chainId": 1868,
+            "logoURI": "https://i.ibb.co/v4kF5VFY/usdt0.png"
+        },
+        {
             "name": "Neemo Staked Astar",
             "address": "0xc67476893C166c537afd9bc6bc87b3f228b44337",
             "symbol": "nsASTR",
